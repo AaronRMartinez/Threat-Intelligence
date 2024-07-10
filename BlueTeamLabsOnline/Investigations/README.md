@@ -1,6 +1,6 @@
 # BTLO Threat Intelligence Investigations
 
-Completed **Blue Team Labs Online** investigations pertaining to incident response.
+Completed **Blue Team Labs Online** investigations pertaining to threat intelligence.
 
 ## YUREI
 
@@ -21,3 +21,42 @@ I've noticed that Katy is spending a lot of time using her Outlook email client.
 
 <a href="https://blueteamlabs.online/achievement/share/76960/168">View Achievement</a>
 
+## DERAILED
+
+### Scenario
+
+ My name is Eriphyle. I am an artist by trade, but I love to dabble in cybersecurity-ish stuff outside of work. My mother kindled my interest, to be frank. As a female, I get worried that I can never break this male-dominated field—regardless, I am still going to try anyway.
+
+I was born and raised in Poland. My father and I recently moved to a place called “Winter Wonderland.” It is much colder than in my home country, but my father was able to find work there as a Train Engineer. Ever since Mother passed, money has been tight—luckily this job pays six figures. But, that tragic day changed everything.
+
+Mysterious saboteurs—dubbed “Glacier”—have, over the past year, disrupted Wonderland's railway system—a major piece of transit infrastructure for our city, serving as a key resource in the growth of our economy. On December 15th, Wonderland’s train—carrying both freight and passengers—was brought to a halt across the land; my father happened to be working that day, and passengers, during an abrupt stop. The disruption of the railway lines caused much chaos: the delay of medical supplies, raw materials, and public transportation are a few. If this persists, we won’t have a thriving economy anymore, this land was built for railroads!
+
+I lost my mother already. I am not losing my father because of some radical hackers who could give a damn about human life. Father is aware of my interest in cybersecurity, so he referred me to his employer’s cybersecurity department, which is quite small at the moment. Thankfully—due to this tragic incident—I am currently working with some cybersecurity professionals for the first time in my life to examine this issue. I still ponder “why” I was accepted. Well, Wonderland currently lacks cybersecurity professionals, so my “expertise” is needed at a time like this. I guess it helps to have a portfolio—a cyber-artistic one mind you.
+
+I am going to get to the bottom of this. It is time to bring the heat to “Glacier!” 
+
+### Tools
+
+-  CyberChef
+-  PeStudio
+-  Visual Studio Code
+-  Chrome Dev Tools
+-  Notepad++
+-  ChatGPT 
+
+<a href="https://blueteamlabs.online/achievement/share/76960/180">View Achievement</a>
+
+## FOXY
+
+### Scenario
+
+As an Intelligence Analyst you are tasked with assisting the SOC Analysts with their investigations, providing additional context and information.
+
+### Tools
+
+-  Linux CLI
+-  Gnumeric
+-  Text Editor
+-  OSINT
+
+<a href="https://blueteamlabs.online/achievement/share/76960/116">View Achievement</a>
